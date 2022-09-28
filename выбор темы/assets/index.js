@@ -6,7 +6,7 @@ function select() {
     let value = list.value;
     console.log(value);
     document.querySelector("#bgColor").classList = [];
-    document.querySelector("#bgColor").classList.push(value);
+    document.querySelector("#bgColor").classList.add(value);
 }
 
 
