@@ -1,0 +1,25 @@
+.bannerWhite{
+    max-width: 100%;
+    background: white;
+    height: 800px;
+}
+
+.wrapper{
+    width: 1400px;
+    margin: auto;
+}
+
+
+.White{
+    background: white;
+}
+.Dark{
+    background: dimgray;
+}
+.Blue{
+    background: cornflowerblue;
+}
+.Yellow{
+    background: yellow;
+}
+
